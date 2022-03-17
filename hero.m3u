@@ -1,3 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1
-https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",espn un
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-bK0BvI_sCntARVdbEcpPvfyqGhI8q9h8CXBUTrIwjpG/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",espn seg
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-aI12Bm_Xoi1oR0fc76y01oacgHlWtFAy747UL8Ltq3Q/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",adrenalina n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaqkP4qu25fGaxlgvW66Y5MY/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",afizzionados n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaqeOYWby0b_Ea1RfmaLe8rc/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",aym sports n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaoH4E_nLY0OcLtD0pIP_lEM/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",bein sports ñ n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvar0acwy-OJpydhZB887K3zl/ts
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes mx",bein sports n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaruNXfVu8Wvk-1rbqzQNxcD/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",claro sports n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaq3MPYYRnlQ__ZB70kuz9sk/ts
